@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="WEB-INF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/mysql-connector-j-8.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/web/WEB-INF" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF" recursive="false" />
+  </library>
+</component>

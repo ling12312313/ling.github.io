@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jakarta.servlet.jsp.jstl-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/mysql-connector-j-8.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
